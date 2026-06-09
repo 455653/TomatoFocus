@@ -7,7 +7,8 @@
       "Bash(find \"d:/RunTime/HarmonyOSDeveloper/DevEco Studio/sdk/default\" -name \"*AbilityKit*\" -type f 2>/dev/null | head -10)",
       "Read(//d/RunTime/HarmonyOSDeveloper/DevEco Studio/sdk/default/**)",
       "Bash(git remote *)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit *)"
     ]
   }
 }

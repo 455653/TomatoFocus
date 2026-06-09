@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e *)",
+      "Read(//d/RunTime/HarmonyOSDeveloper/DevEco Studio/sdk/default/openharmony/ets/api/**)",
+      "Bash(ls \"d:/RunTime/HarmonyOSDeveloper/DevEco Studio/sdk/default/openharmony/ets/api/\" | head -40)",
+      "Bash(find \"d:/RunTime/HarmonyOSDeveloper/DevEco Studio/sdk/default\" -name \"*AbilityKit*\" -type f 2>/dev/null | head -10)",
+      "Read(//d/RunTime/HarmonyOSDeveloper/DevEco Studio/sdk/default/**)",
+      "Bash(git remote *)",
+      "Bash(git add *)"
+    ]
+  }
+}
